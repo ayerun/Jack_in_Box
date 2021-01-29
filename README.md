@@ -1,7 +1,7 @@
 # Jack in Box Simulation
 ### Author: Arun Kumar
 
-![](jacksim.gif)
+![](gifs/jacksim.gif)
 
 #### Usage Instructions:
 * Jack_Box.ipynb contains the full simulation in a jupyter notebook.
