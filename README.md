@@ -5,7 +5,7 @@
 
 #### Usage Instructions:
 * Jack_Box.ipynb contains the full simulation in a jupyter notebook.
-* 3config.ipynb containts half the simulation in a jupyter notebook (jack moves box is stationary).
+* 3config.ipynb contains half the simulation in a jupyter notebook (jack moves box is stationary).
 * Animation must be run in a browser.
 * writeup.pdf describes the project and the math used.
 
